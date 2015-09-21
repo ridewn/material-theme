@@ -7,7 +7,7 @@ Original Repo: https://github.com/equinusocio/material-theme
 Facebook Color Scheme: http://colorsublime.com/?q=facebook (there's a ST plugin for colorsublime if you want to grab that)
 
 # Installation
-You can install the theme via download the .zip file of this repo, or by cloning it. If you download it via the .zip file, you'll need to extract the "material theme master" folders contents into a folder. Preferably you should store the files and directories in a "Material Theme" folder in your Packages directory.
+You can install the theme via the .zip file of this repo, or by cloning it. If you download it via the .zip file, you'll need to extract the "material theme master" folders contents into a folder. Preferably you should store the files and directories in a "Material Theme" folder in your Packages directory.
 After that you can edit your sublime settings file to use the theme:
 ```javascript
 "theme": "Material-Theme.sublime-theme",

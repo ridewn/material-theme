@@ -14,9 +14,3 @@ After that you can edit your sublime settings file to use the theme:
 ```javascript
 "theme": "Material-Theme.sublime-theme",
 ```
-
-# Screenshots
-![Quick panel](http://i.imgur.com/Yel8yQn.png)
-![Seach Bar](http://i.imgur.com/bgTFbtc.png)
-![Scroll Bar](http://i.imgur.com/HQXMh8s.png)
-
